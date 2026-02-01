@@ -1,4 +1,5 @@
 [![Netlify + Astro](https://user-images.githubusercontent.com/43764894/223559085-8ff69d2f-4247-427f-a3a6-d2036b00082a.png)](https://ntl.fyi/3LZGn73)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fquantum-astro-quickstart.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fquantum-astro-quickstart?ref=badge_shield)
 
 # Astro Quickstart Template   
 
@@ -180,3 +181,7 @@ npm uninstall cypress
 ## Want to learn more?
 
 Feel free to check [our documentation](https://github.com/withastro/astro) or jump into our [Discord server](https://astro.build/chat).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fquantum-astro-quickstart.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fquantum-astro-quickstart?ref=badge_large)
